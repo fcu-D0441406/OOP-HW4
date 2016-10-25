@@ -3,7 +3,7 @@ package abcde;
 public class erwe {
 
 	public static void main(String[] args) {
-		sdf s1 = new sdf();
+		PasswordEncorder s1 = PasswordEncorder sdf();
 		int a = 1;
 		String word = "3x17";
 		while(a == 1)

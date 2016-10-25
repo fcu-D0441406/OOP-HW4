@@ -2,7 +2,7 @@ package asdfdsf;
 
 import java.util.Scanner;
 
-public class dec {
+public class main {
 
 	public static void main(String[] args) {
 		tidda d1 = new tidda();

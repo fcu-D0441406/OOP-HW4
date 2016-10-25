@@ -1,6 +1,6 @@
 package asdfdsf;
 
-public class dgdgr {
+public class tidda {
 	static int a = 0;
 	public static void main(String[] args) {
 

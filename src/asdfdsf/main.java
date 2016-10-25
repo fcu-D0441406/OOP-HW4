@@ -13,7 +13,7 @@ public class dec {
 		{
 			String ab;
 			String y = "yes" , n = "no";
-			System.out.printf("¬O§_­n¦A©I¥s (¬O)yes ,(§_)no\n");
+			System.out.printf("Â¬OÂ§_Â­nÂ¦AÂ©IÂ¥s (Â¬O)yes ,(Â§_)no\n");
 			ab =s1.next();
 			if(ab.equals(y))
 			{
